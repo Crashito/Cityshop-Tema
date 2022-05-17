@@ -1,0 +1,2511 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sinrato 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2019-01-16 15:47+0700\n"
+"PO-Revision-Date: 2015-12-14 21:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../sinrato/404.php:15
+msgid "OOPS! PAGE NOT BE FOUND"
+msgstr ""
+
+#: ../sinrato/404.php:16
+msgid ""
+"Sorry but the page you are looking for does not exist, has been removed, "
+"changed or is temporarity unavailable."
+msgstr ""
+
+#: ../sinrato/404.php:18
+msgid "Back to home page"
+msgstr ""
+
+#: ../sinrato/author.php:92
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../sinrato/author.php:108
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../sinrato/category.php:79
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:327 ../sinrato/functions.php:1326
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:328 ../sinrato/functions.php:1327
+msgid "Install Plugins"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:330 ../sinrato/functions.php:1328
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:333 ../sinrato/functions.php:1329
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:385 ../sinrato/functions.php:1340
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:386
+#: ../sinrato/class-tgm-plugin-activation.php:827
+#: ../sinrato/class-tgm-plugin-activation.php:2533
+#: ../sinrato/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:387
+#: ../sinrato/class-tgm-plugin-activation.php:3159
+#: ../sinrato/functions.php:1341
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:388
+#: ../sinrato/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:934
+#: ../sinrato/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2554
+#: ../sinrato/woocommerce/myaccount/my-orders.php:42
+msgid "Status"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3509
+#: ../sinrato/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3509
+#: ../sinrato/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../sinrato/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../sinrato/comments.php:27 ../sinrato/functions.php:1145
+msgid "1 comment"
+msgstr ""
+
+#: ../sinrato/comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: ../sinrato/content-audio.php:91 ../sinrato/content-gallery.php:105
+#: ../sinrato/content-image.php:81 ../sinrato/content-video.php:113
+#: ../sinrato/content.php:81
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../sinrato/content-audio.php:92 ../sinrato/content-audio.php:140
+#: ../sinrato/content-gallery.php:106 ../sinrato/content-gallery.php:162
+#: ../sinrato/content-image.php:82 ../sinrato/content-image.php:127
+#: ../sinrato/content-page.php:13 ../sinrato/content-video.php:114
+#: ../sinrato/content-video.php:152 ../sinrato/content.php:82
+#: ../sinrato/content.php:126 ../sinrato/image.php:115
+msgid "Pages:"
+msgstr ""
+
+#: ../sinrato/content-audio.php:122 ../sinrato/content-gallery.php:139
+#: ../sinrato/content-image.php:112 ../sinrato/content.php:112
+msgid "View posts"
+msgstr ""
+
+#: ../sinrato/content-audio.php:135 ../sinrato/content-gallery.php:157
+#: ../sinrato/content-image.php:122 ../sinrato/content-video.php:147
+#: ../sinrato/content.php:121
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../sinrato/content-audio.php:163 ../sinrato/content-gallery.php:184
+#: ../sinrato/content-image.php:150 ../sinrato/content-video.php:174
+#: ../sinrato/content.php:148
+msgid "About the Author:"
+msgstr ""
+
+#: ../sinrato/content-audio.php:185 ../sinrato/content-gallery.php:207
+#: ../sinrato/content-image.php:172 ../sinrato/content-video.php:196
+#: ../sinrato/content.php:170
+msgid "Related posts"
+msgstr ""
+
+#: ../sinrato/content-gallery.php:129 ../sinrato/include/map_shortcodes.php:590
+#: ../sinrato/include/map_shortcodes.php:835
+msgid "Category"
+msgstr ""
+
+#: ../sinrato/content-none.php:12 ../sinrato/index.php:103
+#: ../sinrato/search.php:83
+msgid "Nothing Found"
+msgstr ""
+
+#: ../sinrato/content-none.php:15 ../sinrato/index.php:106
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../sinrato/footer.php:42
+msgid "Copyright"
+msgstr ""
+
+#: ../sinrato/footer.php:42
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../sinrato/functions.php:173
+msgid "Search... "
+msgstr ""
+
+#: ../sinrato/functions.php:178 ../sinrato/functions.php:195
+msgid "Search"
+msgstr ""
+
+#: ../sinrato/functions.php:190 ../sinrato/functions.php:604
+#: ../sinrato/functions.php:610 ../sinrato/functions.php:614
+msgid "Search product..."
+msgstr ""
+
+#: ../sinrato/functions.php:321
+msgid "Primary Menu"
+msgstr ""
+
+#: ../sinrato/functions.php:322 ../sinrato/include/map_shortcodes.php:87
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../sinrato/functions.php:323 ../sinrato/include/map_shortcodes.php:114
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../sinrato/functions.php:324 ../sinrato/include/map_shortcodes.php:141
+#: ../sinrato/theme-config.php:436
+msgid "Categories Menu"
+msgstr ""
+
+#: ../sinrato/functions.php:620 ../sinrato/functions.php:626
+#: ../sinrato/functions.php:630
+msgid "Search..."
+msgstr ""
+
+#: ../sinrato/functions.php:706
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../sinrato/functions.php:708
+msgid "Sidebar on blog page"
+msgstr ""
+
+#: ../sinrato/functions.php:715
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../sinrato/functions.php:717
+msgid "Sidebar on shop page (only sidebar shop layout)"
+msgstr ""
+
+#: ../sinrato/functions.php:724
+msgid "Single product Sidebar"
+msgstr ""
+
+#: ../sinrato/functions.php:726
+msgid "Sidebar on product details page"
+msgstr ""
+
+#: ../sinrato/functions.php:733
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../sinrato/functions.php:735
+msgid "Sidebar on content pages"
+msgstr ""
+
+#: ../sinrato/functions.php:767
+msgid ""
+"This content will be used to replace the featured image, use shortcode here"
+msgstr ""
+
+#: ../sinrato/functions.php:783
+msgid "Select a custom sidebar for this post/page"
+msgstr ""
+
+#: ../sinrato/functions.php:786
+msgid "- None -"
+msgstr ""
+
+#: ../sinrato/functions.php:799
+msgid "Sidebar position"
+msgstr ""
+
+#: ../sinrato/functions.php:802 ../sinrato/theme-config.php:882
+#: ../sinrato/theme-config.php:935 ../sinrato/theme-config.php:1042
+#: ../sinrato/theme-config.php:1155
+msgid "Left"
+msgstr ""
+
+#: ../sinrato/functions.php:803 ../sinrato/theme-config.php:883
+#: ../sinrato/theme-config.php:936 ../sinrato/theme-config.php:1043
+#: ../sinrato/theme-config.php:1156
+msgid "Right"
+msgstr ""
+
+#: ../sinrato/functions.php:899 ../sinrato/functions.php:945
+msgid "Home"
+msgstr ""
+
+#: ../sinrato/functions.php:933 ../sinrato/functions.php:934
+#: ../sinrato/functions.php:935
+#, php-format
+msgid "Archive for: %s"
+msgstr ""
+
+#: ../sinrato/functions.php:934
+msgid "F Y"
+msgstr ""
+
+#: ../sinrato/functions.php:935
+msgid "Y"
+msgstr ""
+
+#: ../sinrato/functions.php:936
+msgid "Archive for"
+msgstr ""
+
+#: ../sinrato/functions.php:937
+msgid "Blog Archives"
+msgstr ""
+
+#: ../sinrato/functions.php:938
+msgid "Search Results"
+msgstr ""
+
+#: ../sinrato/functions.php:950 ../sinrato/index.php:76
+#: ../sinrato/theme-config.php:1126 ../sinrato/theme-config.php:1134
+msgid "Blog"
+msgstr ""
+
+#: ../sinrato/functions.php:1012
+msgid "on"
+msgstr ""
+
+#: ../sinrato/functions.php:1036
+msgid "Post navigation"
+msgstr ""
+
+#: ../sinrato/functions.php:1037
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../sinrato/functions.php:1038
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../sinrato/functions.php:1058
+msgid "Previous"
+msgstr ""
+
+#: ../sinrato/functions.php:1059
+msgid "Next"
+msgstr ""
+
+#: ../sinrato/functions.php:1082
+msgid "Pingback:"
+msgstr ""
+
+#: ../sinrato/functions.php:1082
+msgid "(Edit)"
+msgstr ""
+
+#: ../sinrato/functions.php:1100
+msgid "Post author"
+msgstr ""
+
+#: ../sinrato/functions.php:1105
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../sinrato/functions.php:1109
+msgid "Reply"
+msgstr ""
+
+#: ../sinrato/functions.php:1113
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../sinrato/functions.php:1117 ../sinrato/image.php:138
+msgid "Edit"
+msgstr ""
+
+#: ../sinrato/functions.php:1141
+msgid "0 comments"
+msgstr ""
+
+#: ../sinrato/functions.php:1143 ../sinrato/functions.php:1189
+#: ../sinrato/include/shortcodes.php:569
+msgid " comments"
+msgstr ""
+
+#: ../sinrato/functions.php:1151 ../sinrato/functions.php:1155
+#, php-format
+msgid "Tags: %2$s"
+msgstr ""
+
+#: ../sinrato/functions.php:1153
+#, php-format
+msgid "%1$s / Tags: %2$s"
+msgstr ""
+
+#: ../sinrato/functions.php:1157 ../sinrato/functions.php:1195
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../sinrato/functions.php:1170
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../sinrato/functions.php:1173
+#, php-format
+msgid "Posted by %1$s / %2$s"
+msgstr ""
+
+#: ../sinrato/functions.php:1187 ../sinrato/include/shortcodes.php:567
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: ../sinrato/functions.php:1191 ../sinrato/include/shortcodes.php:571
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../sinrato/functions.php:1204
+msgid "RoadThemes Helper"
+msgstr ""
+
+#: ../sinrato/functions.php:1214
+msgid "Mega Main Menu"
+msgstr ""
+
+#: ../sinrato/functions.php:1221
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../sinrato/functions.php:1228
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: ../sinrato/functions.php:1235
+msgid "Templatera"
+msgstr ""
+
+#: ../sinrato/functions.php:1243
+msgid "Redux Framework"
+msgstr ""
+
+#: ../sinrato/functions.php:1250
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../sinrato/functions.php:1255
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../sinrato/functions.php:1260
+msgid "Rotating Tweets"
+msgstr ""
+
+#: ../sinrato/functions.php:1265
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: ../sinrato/functions.php:1270
+msgid "Simple Local Avatars"
+msgstr ""
+
+#: ../sinrato/functions.php:1275 ../sinrato/include/map_shortcodes.php:774
+#: ../sinrato/theme-config.php:1176
+msgid "Testimonials"
+msgstr ""
+
+#: ../sinrato/functions.php:1280
+msgid "TinyMCE Advanced"
+msgstr ""
+
+#: ../sinrato/functions.php:1285
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: ../sinrato/functions.php:1290
+msgid "WooCommerce"
+msgstr ""
+
+#: ../sinrato/functions.php:1295
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: ../sinrato/functions.php:1300
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: ../sinrato/functions.php:1305
+msgid "YITH WooCommerce Zoom Magnifier"
+msgstr ""
+
+#: ../sinrato/functions.php:1342
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../sinrato/image.php:127
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel="
+"\"gallery\">%8$s</a>."
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:7
+msgid "Logo"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:8
+msgid "Insert logo image"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:11
+#: ../sinrato/include/map_shortcodes.php:62
+#: ../sinrato/include/map_shortcodes.php:91
+#: ../sinrato/include/map_shortcodes.php:118
+#: ../sinrato/include/map_shortcodes.php:145
+#: ../sinrato/include/map_shortcodes.php:186
+#: ../sinrato/include/map_shortcodes.php:213
+#: ../sinrato/include/map_shortcodes.php:236
+#: ../sinrato/include/map_shortcodes.php:258
+#: ../sinrato/include/map_shortcodes.php:281
+#: ../sinrato/include/map_shortcodes.php:308
+#: ../sinrato/include/map_shortcodes.php:447
+#: ../sinrato/include/map_shortcodes.php:575
+#: ../sinrato/include/map_shortcodes.php:778
+#: ../sinrato/include/map_shortcodes.php:904
+#: ../sinrato/include/map_shortcodes.php:950
+#: ../sinrato/include/map_shortcodes.php:997
+#: ../sinrato/include/map_shortcodes.php:1042
+#: ../sinrato/include/map_shortcodes.php:1108
+msgid "Theme"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:18
+msgid "Upload logo image"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:19
+msgid ""
+"Note: For retina screen, logo image size is at least twice as width and "
+"height (width is set below) to display clearly"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:27
+msgid "Insert logo link or not"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:38
+msgid "Logo width (unit: px)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:39
+msgid "Insert number. Leave blank if you want to use original image size"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:41
+msgid "150"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:47
+#: ../sinrato/include/map_shortcodes.php:76
+#: ../sinrato/include/map_shortcodes.php:103
+#: ../sinrato/include/map_shortcodes.php:130
+#: ../sinrato/include/map_shortcodes.php:171
+#: ../sinrato/include/map_shortcodes.php:199
+#: ../sinrato/include/map_shortcodes.php:220
+#: ../sinrato/include/map_shortcodes.php:243
+#: ../sinrato/include/map_shortcodes.php:265
+#: ../sinrato/include/map_shortcodes.php:294
+#: ../sinrato/include/map_shortcodes.php:424
+#: ../sinrato/include/map_shortcodes.php:551
+#: ../sinrato/include/map_shortcodes.php:632
+#: ../sinrato/include/map_shortcodes.php:879
+#: ../sinrato/include/map_shortcodes.php:936
+#: ../sinrato/include/map_shortcodes.php:981
+#: ../sinrato/include/map_shortcodes.php:1028
+#: ../sinrato/include/map_shortcodes.php:1082
+#: ../sinrato/include/map_shortcodes.php:1162
+msgid "Style"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:50
+#: ../sinrato/include/map_shortcodes.php:79
+#: ../sinrato/include/map_shortcodes.php:106
+#: ../sinrato/include/map_shortcodes.php:133
+#: ../sinrato/include/map_shortcodes.php:174
+#: ../sinrato/include/map_shortcodes.php:202
+#: ../sinrato/include/map_shortcodes.php:223
+#: ../sinrato/include/map_shortcodes.php:246
+#: ../sinrato/include/map_shortcodes.php:268
+#: ../sinrato/include/map_shortcodes.php:297
+#: ../sinrato/include/map_shortcodes.php:427
+#: ../sinrato/include/map_shortcodes.php:554
+#: ../sinrato/include/map_shortcodes.php:635
+#: ../sinrato/include/map_shortcodes.php:882
+#: ../sinrato/include/map_shortcodes.php:939
+#: ../sinrato/include/map_shortcodes.php:1031
+msgid "Style 1"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:51
+#: ../sinrato/include/map_shortcodes.php:80
+#: ../sinrato/include/map_shortcodes.php:107
+#: ../sinrato/include/map_shortcodes.php:134
+#: ../sinrato/include/map_shortcodes.php:175
+#: ../sinrato/include/map_shortcodes.php:224
+#: ../sinrato/include/map_shortcodes.php:247
+#: ../sinrato/include/map_shortcodes.php:269
+#: ../sinrato/include/map_shortcodes.php:1086
+msgid "Style 2"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:58 ../sinrato/theme-config.php:414
+msgid "Main Menu"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:59
+#: ../sinrato/include/map_shortcodes.php:68
+msgid "Set Primary Menu in Apperance - Menus - Manage Locations"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:69
+#: ../sinrato/include/map_shortcodes.php:98
+#: ../sinrato/include/map_shortcodes.php:125
+msgid "More settings in Theme Options - Main Menu"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:88
+#: ../sinrato/include/map_shortcodes.php:97
+msgid "Set Sticky Menu in Apperance - Menus - Manage Locations"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:115
+#: ../sinrato/include/map_shortcodes.php:124
+msgid "Set Mobile Menu in Apperance - Menus - Manage Locations"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:142
+#: ../sinrato/include/map_shortcodes.php:151
+msgid "Set Categories Menu in Apperance - Menus - Manage Locations"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:152
+msgid "More settings in Theme Options - Categories Menu"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:159
+msgid "Show full Categories in home page ?"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:160
+msgid "In inner pages, it only shows the toogle"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:163
+#: ../sinrato/include/map_shortcodes.php:386
+#: ../sinrato/include/map_shortcodes.php:394
+#: ../sinrato/include/map_shortcodes.php:512
+#: ../sinrato/include/map_shortcodes.php:520
+#: ../sinrato/include/map_shortcodes.php:715
+#: ../sinrato/include/map_shortcodes.php:725
+#: ../sinrato/include/map_shortcodes.php:845
+#: ../sinrato/include/map_shortcodes.php:855
+msgid "No"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:164
+#: ../sinrato/include/map_shortcodes.php:385
+#: ../sinrato/include/map_shortcodes.php:395
+#: ../sinrato/include/map_shortcodes.php:511
+#: ../sinrato/include/map_shortcodes.php:521
+#: ../sinrato/include/map_shortcodes.php:714
+#: ../sinrato/include/map_shortcodes.php:726
+#: ../sinrato/include/map_shortcodes.php:846
+#: ../sinrato/include/map_shortcodes.php:854
+msgid "Yes"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:182 ../sinrato/theme-config.php:562
+#: ../sinrato/theme-config.php:568
+msgid "Social Icons"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:183
+msgid "Configure icons and links in Theme Options"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:192
+msgid "Configure icons and links in Theme Options > Social Icons"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:209
+#: ../sinrato/include/map_shortcodes.php:210
+msgid "Mini Cart"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:225
+#: ../sinrato/include/map_shortcodes.php:270
+msgid "Style 3"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:232
+#: ../sinrato/include/map_shortcodes.php:233
+#: ../sinrato/include/shortcodes.php:187
+msgid "Wishlist"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:254
+#: ../sinrato/include/map_shortcodes.php:255
+msgid "Product Search (No dropdown)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:277
+#: ../sinrato/include/map_shortcodes.php:278
+msgid "Product Search (Dropdown)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:287
+msgid "This widget does not have settings"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:304 ../sinrato/theme-config.php:780
+msgid "Image slider"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:305
+#: ../sinrato/include/map_shortcodes.php:444
+msgid "Upload images and links in Theme Options"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:315
+#: ../sinrato/include/map_shortcodes.php:454
+#: ../sinrato/include/map_shortcodes.php:650
+msgid "Number of rows"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:328
+#: ../sinrato/include/map_shortcodes.php:466
+msgid "Number of columns (screen: over 1500px)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:330
+#: ../sinrato/include/map_shortcodes.php:337
+#: ../sinrato/include/map_shortcodes.php:645
+#: ../sinrato/include/map_shortcodes.php:652
+#: ../sinrato/include/map_shortcodes.php:664
+#: ../sinrato/include/map_shortcodes.php:673
+#: ../sinrato/include/map_shortcodes.php:681
+#: ../sinrato/include/map_shortcodes.php:689
+#: ../sinrato/include/map_shortcodes.php:697
+#: ../sinrato/include/map_shortcodes.php:705
+#: ../sinrato/include/map_shortcodes.php:712
+#: ../sinrato/include/map_shortcodes.php:723
+#: ../sinrato/include/map_shortcodes.php:735
+#: ../sinrato/include/map_shortcodes.php:743
+#: ../sinrato/include/map_shortcodes.php:750
+#: ../sinrato/include/map_shortcodes.php:757
+#: ../sinrato/include/map_shortcodes.php:764
+msgid "Slider Options"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:331
+#: ../sinrato/include/map_shortcodes.php:338
+#: ../sinrato/include/map_shortcodes.php:346
+#: ../sinrato/include/map_shortcodes.php:486
+msgid "4"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:335
+#: ../sinrato/include/map_shortcodes.php:472
+#: ../sinrato/include/map_shortcodes.php:662
+msgid "Number of columns (screen: 1200px - 1499px)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:344
+#: ../sinrato/include/map_shortcodes.php:478
+#: ../sinrato/include/map_shortcodes.php:670
+msgid "Number of columns (screen: 992px - 1199px)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:352
+#: ../sinrato/include/map_shortcodes.php:484
+#: ../sinrato/include/map_shortcodes.php:678
+msgid "Number of columns (screen: 768px - 991px)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:354
+#: ../sinrato/include/map_shortcodes.php:492
+#: ../sinrato/include/map_shortcodes.php:665
+#: ../sinrato/include/map_shortcodes.php:672
+#: ../sinrato/include/map_shortcodes.php:680
+msgid "3"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:360
+#: ../sinrato/include/map_shortcodes.php:490
+#: ../sinrato/include/map_shortcodes.php:686
+msgid "Number of columns (screen: 640px - 767px)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:362
+#: ../sinrato/include/map_shortcodes.php:370
+#: ../sinrato/include/map_shortcodes.php:498
+#: ../sinrato/include/map_shortcodes.php:688
+#: ../sinrato/include/map_shortcodes.php:696
+msgid "2"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:368
+#: ../sinrato/include/map_shortcodes.php:496
+#: ../sinrato/include/map_shortcodes.php:694
+msgid "Number of columns (screen: 480px - 639px)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:376
+#: ../sinrato/include/map_shortcodes.php:502
+#: ../sinrato/include/map_shortcodes.php:702
+msgid "Number of columns (screen: under 479px)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:378
+#: ../sinrato/include/map_shortcodes.php:504
+#: ../sinrato/include/map_shortcodes.php:704
+msgid "1"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:382
+#: ../sinrato/include/map_shortcodes.php:508
+#: ../sinrato/include/map_shortcodes.php:709
+#: ../sinrato/include/map_shortcodes.php:842
+msgid "Navigation"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:391
+#: ../sinrato/include/map_shortcodes.php:517
+#: ../sinrato/include/map_shortcodes.php:720
+#: ../sinrato/include/map_shortcodes.php:851
+msgid "Pagination"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:400
+#: ../sinrato/include/map_shortcodes.php:526
+#: ../sinrato/include/map_shortcodes.php:731
+msgid "Item Margin (unit: pixel)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:406
+#: ../sinrato/include/map_shortcodes.php:532
+#: ../sinrato/include/map_shortcodes.php:739
+#: ../sinrato/include/map_shortcodes.php:860
+msgid "Slider speed number (unit: second)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:413
+#: ../sinrato/include/map_shortcodes.php:539
+#: ../sinrato/include/map_shortcodes.php:747
+#: ../sinrato/include/map_shortcodes.php:867
+msgid "Slider loop"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:419
+#: ../sinrato/include/map_shortcodes.php:545
+#: ../sinrato/include/map_shortcodes.php:754
+#: ../sinrato/include/map_shortcodes.php:873
+msgid "Slider Auto"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:432
+#: ../sinrato/include/map_shortcodes.php:560
+#: ../sinrato/include/map_shortcodes.php:762
+#: ../sinrato/include/map_shortcodes.php:889
+msgid "Navigation style"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:435
+#: ../sinrato/include/map_shortcodes.php:564
+#: ../sinrato/include/map_shortcodes.php:767
+#: ../sinrato/include/map_shortcodes.php:892
+msgid "Navigation top-right"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:436
+#: ../sinrato/include/map_shortcodes.php:563
+#: ../sinrato/include/map_shortcodes.php:766
+#: ../sinrato/include/map_shortcodes.php:893
+msgid "Navigation center horizontal"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:443 ../sinrato/theme-config.php:799
+msgid "Brand Logos"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:468
+#: ../sinrato/include/map_shortcodes.php:474
+#: ../sinrato/include/map_shortcodes.php:480
+msgid "5"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:571
+msgid "Latest posts"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:572
+msgid "List posts"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:582
+msgid "Number of posts"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:584
+#: ../sinrato/include/map_shortcodes.php:787
+msgid "10"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:592
+#: ../sinrato/include/map_shortcodes.php:837
+msgid "0"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:593
+msgid ""
+"Slug of the category (example: slug-1, slug-2). Default is 0 : show all posts"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:599
+msgid "Image scale"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:610
+msgid "Excerpt length"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:612
+msgid "20"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:618
+msgid "Number of columns"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:636
+msgid "Style 2 (footer)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:641
+msgid "Enable slider"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:775
+msgid "Testimonial slider"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:785
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:793
+msgid "Display Author"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:804
+msgid "Display Avatar"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:815
+msgid "Avatar image size"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:818
+msgid "Avatar image size in pixels. Default is 150"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:824
+msgid "Display URL"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:838
+msgid "Slug of the category. Default is 0 : show all testimonials"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:883
+msgid "Style 2 (about page)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:900
+#: ../sinrato/include/map_shortcodes.php:901
+msgid "Counter"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:911
+msgid "Image icon"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:914
+msgid "Upload icon image"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:920
+msgid "Number"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:928
+msgid "Text"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:946
+#: ../sinrato/include/map_shortcodes.php:947
+msgid "Heading Title"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:957
+msgid "Heading title element"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:965
+msgid "Heading sub-title element"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:973
+msgid "Upload heading title image"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:984
+#: ../sinrato/include/map_shortcodes.php:1085
+#: ../sinrato/include/map_shortcodes.php:1165
+msgid "Style 1 (Default)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:985
+msgid "Style 2 (sidebar, smaller)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:986
+msgid "Style 3 (Footer title)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:993
+#: ../sinrato/include/map_shortcodes.php:994
+msgid "Countdown"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1004
+msgid "End date (day)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1012
+msgid "End date (month)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1020
+msgid "End date (year)"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1038
+msgid "Mailchimp Newsletter"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1039
+msgid "Mailchimp Newsletter "
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1049
+msgid "Newsletter title"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1057
+msgid "Newsletter sub-title"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1065
+msgid "Upload newsletter title image"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1073
+msgid "Insert id of Mailchimp Form"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1074
+msgid "See id in admin -> MailChimp for WP -> Form, under the form title"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1104
+#: ../sinrato/include/map_shortcodes.php:1105
+msgid "Custom Menu"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1115
+msgid "Upload menu image"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1123
+msgid "Menu title"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1129
+msgid "Choose Menu"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1132
+msgid ""
+"Custom menus not found. Please visit <b>Appearance > Menus</b> page to "
+"create new menu."
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1132
+msgid "Select menu to display."
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1140
+msgid "Menu text"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1148
+msgid "Menu link text"
+msgstr ""
+
+#: ../sinrato/include/map_shortcodes.php:1156
+msgid "Menu link url"
+msgstr ""
+
+#: ../sinrato/include/shortcodes.php:114
+msgid "ALL CATEGORIES"
+msgstr ""
+
+#: ../sinrato/include/shortcodes.php:119 ../sinrato/theme-config.php:488
+msgid "More Categories"
+msgstr ""
+
+#: ../sinrato/include/shortcodes.php:120
+msgid "Close Menu"
+msgstr ""
+
+#: ../sinrato/include/shortcodes.php:207
+msgid "All Categories"
+msgstr ""
+
+#: ../sinrato/include/shortcodes.php:585
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../sinrato/include/shortcodes.php:585
+msgid "By"
+msgstr ""
+
+#: ../sinrato/include/wooajax.php:87
+#: ../sinrato/woocommerce/cart/mini-cart.php:31
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../sinrato/include/wooajax.php:100
+msgid "Product is added to cart"
+msgstr ""
+
+#: ../sinrato/include/wooajax.php:121
+msgid "View Cart"
+msgstr ""
+
+#: ../sinrato/index.php:94
+msgid "No posts to display"
+msgstr ""
+
+#: ../sinrato/index.php:97
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../sinrato/search.php:69
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../sinrato/search.php:86
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../sinrato/tag.php:79
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../sinrato/theme-config.php:42
+msgid "The compiler hook has run!"
+msgstr ""
+
+#: ../sinrato/theme-config.php:55
+msgid "Section via hook"
+msgstr ""
+
+#: ../sinrato/theme-config.php:56
+msgid ""
+"This is a section created by adding a filter to the sections array. Can be "
+"used by child themes to add/remove sections from the options."
+msgstr ""
+
+#: ../sinrato/theme-config.php:72
+msgid "Testing filter hook!"
+msgstr ""
+
+#: ../sinrato/theme-config.php:86
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../sinrato/theme-config.php:100
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../sinrato/theme-config.php:101
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../sinrato/theme-config.php:102
+msgid "Tags"
+msgstr ""
+
+#: ../sinrato/theme-config.php:107
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../sinrato/theme-config.php:107
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../sinrato/theme-config.php:117
+msgid "General"
+msgstr ""
+
+#: ../sinrato/theme-config.php:118
+msgid "General theme options"
+msgstr ""
+
+#: ../sinrato/theme-config.php:125
+msgid "Body background"
+msgstr ""
+
+#: ../sinrato/theme-config.php:126
+msgid "Upload image or select color. Only work with box layout"
+msgstr ""
+
+#: ../sinrato/theme-config.php:132
+msgid "Page content background"
+msgstr ""
+
+#: ../sinrato/theme-config.php:133
+msgid "Select background for page content."
+msgstr ""
+
+#: ../sinrato/theme-config.php:139
+msgid "Border Option"
+msgstr ""
+
+#: ../sinrato/theme-config.php:140
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: ../sinrato/theme-config.php:146
+msgid "Back To Top"
+msgstr ""
+
+#: ../sinrato/theme-config.php:147
+msgid "Show back to top button on all pages"
+msgstr ""
+
+#: ../sinrato/theme-config.php:153
+msgid "Row space"
+msgstr ""
+
+#: ../sinrato/theme-config.php:154
+msgid "Space between row (example: 50px)."
+msgstr ""
+
+#: ../sinrato/theme-config.php:161
+msgid "Top position of carousel top right"
+msgstr ""
+
+#: ../sinrato/theme-config.php:162
+msgid ""
+"When you add more element to Heading title, you can change position of "
+"navigation top right (example: 50px)."
+msgstr ""
+
+#: ../sinrato/theme-config.php:170
+msgid "Colors"
+msgstr ""
+
+#: ../sinrato/theme-config.php:171
+msgid "Color options"
+msgstr ""
+
+#: ../sinrato/theme-config.php:177
+msgid "Primary Color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:178
+msgid "Pick a color for primary color."
+msgstr ""
+
+#: ../sinrato/theme-config.php:187
+msgid "Sale Label BG Color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:188
+msgid "Pick a color for bg sale label."
+msgstr ""
+
+#: ../sinrato/theme-config.php:197
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:198
+msgid "Pick a color for sale label text."
+msgstr ""
+
+#: ../sinrato/theme-config.php:207
+msgid "Rating Star Color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:208
+msgid "Pick a color for star of rating."
+msgstr ""
+
+#: ../sinrato/theme-config.php:216
+msgid "Link Color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:217
+msgid "Pick a color for link."
+msgstr ""
+
+#: ../sinrato/theme-config.php:228
+msgid "Text selected background"
+msgstr ""
+
+#: ../sinrato/theme-config.php:229
+msgid "Select background for selected text."
+msgstr ""
+
+#: ../sinrato/theme-config.php:237
+msgid "Text selected color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:238
+msgid "Select color for selected text."
+msgstr ""
+
+#: ../sinrato/theme-config.php:271
+msgid "Header"
+msgstr ""
+
+#: ../sinrato/theme-config.php:272
+msgid "Header options"
+msgstr ""
+
+#: ../sinrato/theme-config.php:279
+msgid "Header Layout"
+msgstr ""
+
+#: ../sinrato/theme-config.php:281 ../sinrato/theme-config.php:290
+msgid "Go to WPBakery Page Builder => Templates to create/edit layout"
+msgstr ""
+
+#: ../sinrato/theme-config.php:288
+msgid "Header Mobile Layout"
+msgstr ""
+
+#: ../sinrato/theme-config.php:297
+msgid "Header background"
+msgstr ""
+
+#: ../sinrato/theme-config.php:298
+msgid "Pick a color for header background."
+msgstr ""
+
+#: ../sinrato/theme-config.php:305
+msgid "Header text color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:306
+msgid "Pick a color for header color."
+msgstr ""
+
+#: ../sinrato/theme-config.php:314
+msgid "Header link color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:315
+msgid "Pick a color for header link color."
+msgstr ""
+
+#: ../sinrato/theme-config.php:326
+msgid "Dropdown menu background"
+msgstr ""
+
+#: ../sinrato/theme-config.php:327
+msgid "Pick a color for dropdown menu background."
+msgstr ""
+
+#: ../sinrato/theme-config.php:336
+msgid "Sticky header"
+msgstr ""
+
+#: ../sinrato/theme-config.php:342
+msgid "Use sticky header"
+msgstr ""
+
+#: ../sinrato/theme-config.php:348
+msgid "Header sticky background"
+msgstr ""
+
+#: ../sinrato/theme-config.php:349
+msgid "Set color and alpha channel"
+msgstr ""
+
+#: ../sinrato/theme-config.php:375
+msgid "Header Sticky Layout"
+msgstr ""
+
+#: ../sinrato/theme-config.php:377 ../sinrato/theme-config.php:527
+msgid "Go to Visual Composer => Templates to create/edit layout"
+msgstr ""
+
+#: ../sinrato/theme-config.php:385
+msgid "Top Bar"
+msgstr ""
+
+#: ../sinrato/theme-config.php:392
+msgid "Top bar text color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:393
+msgid "Pick a color for top bar text color."
+msgstr ""
+
+#: ../sinrato/theme-config.php:401
+msgid "Top bar link color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:402
+msgid "Pick a color for top bar link color ."
+msgstr ""
+
+#: ../sinrato/theme-config.php:419
+msgid "Mobile menu label"
+msgstr ""
+
+#: ../sinrato/theme-config.php:420
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr ""
+
+#: ../sinrato/theme-config.php:421
+msgid "Menu"
+msgstr ""
+
+#: ../sinrato/theme-config.php:426
+msgid "Submenu background"
+msgstr ""
+
+#: ../sinrato/theme-config.php:427
+msgid "Pick a color for sub menu bg ."
+msgstr ""
+
+#: ../sinrato/theme-config.php:441
+msgid "Category menu label"
+msgstr ""
+
+#: ../sinrato/theme-config.php:442
+msgid "The label for category menu"
+msgstr ""
+
+#: ../sinrato/theme-config.php:443
+msgid "Browse categories"
+msgstr ""
+
+#: ../sinrato/theme-config.php:448
+msgid "Category menu label background"
+msgstr ""
+
+#: ../sinrato/theme-config.php:449
+msgid "Pick a color for category menu label background."
+msgstr ""
+
+#: ../sinrato/theme-config.php:457
+msgid "Category menu background"
+msgstr ""
+
+#: ../sinrato/theme-config.php:458
+msgid "Pick a color for category menu background."
+msgstr ""
+
+#: ../sinrato/theme-config.php:466
+msgid "Sub category menu background"
+msgstr ""
+
+#: ../sinrato/theme-config.php:467
+msgid "Pick a color for category sub menu background."
+msgstr ""
+
+#: ../sinrato/theme-config.php:475
+msgid "Number of items"
+msgstr ""
+
+#: ../sinrato/theme-config.php:476
+msgid "Number of menu items level 1 to show."
+msgstr ""
+
+#: ../sinrato/theme-config.php:486
+msgid "More items label"
+msgstr ""
+
+#: ../sinrato/theme-config.php:487
+msgid "The label for more items button"
+msgstr ""
+
+#: ../sinrato/theme-config.php:493
+msgid "Less items label"
+msgstr ""
+
+#: ../sinrato/theme-config.php:494
+msgid "The label for less items button"
+msgstr ""
+
+#: ../sinrato/theme-config.php:495
+msgid "Less Categories"
+msgstr ""
+
+#: ../sinrato/theme-config.php:517
+msgid "Footer"
+msgstr ""
+
+#: ../sinrato/theme-config.php:518
+msgid "Footer options"
+msgstr ""
+
+#: ../sinrato/theme-config.php:525
+msgid "Footer Layout"
+msgstr ""
+
+#: ../sinrato/theme-config.php:534
+msgid "Footer background"
+msgstr ""
+
+#: ../sinrato/theme-config.php:535 ../sinrato/theme-config.php:1221
+msgid "Upload image or select color."
+msgstr ""
+
+#: ../sinrato/theme-config.php:541
+msgid "Footer text color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:542
+msgid "Pick a color for footer color."
+msgstr ""
+
+#: ../sinrato/theme-config.php:550
+msgid "Footer link color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:551
+msgid "Pick a color for footer link color."
+msgstr ""
+
+#: ../sinrato/theme-config.php:569
+msgid "Enter social links"
+msgstr ""
+
+#: ../sinrato/theme-config.php:570
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#: ../sinrato/theme-config.php:606
+msgid "Fonts"
+msgstr ""
+
+#: ../sinrato/theme-config.php:607
+msgid "Fonts options"
+msgstr ""
+
+#: ../sinrato/theme-config.php:614
+msgid "Body font"
+msgstr ""
+
+#: ../sinrato/theme-config.php:621
+msgid "Main body font."
+msgstr ""
+
+#: ../sinrato/theme-config.php:633
+msgid "Heading font"
+msgstr ""
+
+#: ../sinrato/theme-config.php:642
+msgid "Heading font."
+msgstr ""
+
+#: ../sinrato/theme-config.php:653
+msgid "Menu font"
+msgstr ""
+
+#: ../sinrato/theme-config.php:662
+msgid "Menu font."
+msgstr ""
+
+#: ../sinrato/theme-config.php:674
+msgid "Sub menu font"
+msgstr ""
+
+#: ../sinrato/theme-config.php:683
+msgid "sub menu font."
+msgstr ""
+
+#: ../sinrato/theme-config.php:695
+msgid "Dropdown menu font"
+msgstr ""
+
+#: ../sinrato/theme-config.php:704
+msgid "Dropdown menu font."
+msgstr ""
+
+#: ../sinrato/theme-config.php:716
+msgid "Category menu font"
+msgstr ""
+
+#: ../sinrato/theme-config.php:725
+msgid "Category menu font."
+msgstr ""
+
+#: ../sinrato/theme-config.php:737
+msgid "Category sub menu font"
+msgstr ""
+
+#: ../sinrato/theme-config.php:746
+msgid "Category sub menu font."
+msgstr ""
+
+#: ../sinrato/theme-config.php:758
+msgid "Price font"
+msgstr ""
+
+#: ../sinrato/theme-config.php:767
+msgid "Price font."
+msgstr ""
+
+#: ../sinrato/theme-config.php:781
+msgid "Upload images and links"
+msgstr ""
+
+#: ../sinrato/theme-config.php:787
+msgid "Images"
+msgstr ""
+
+#: ../sinrato/theme-config.php:788
+msgid "Upload images and enter links."
+msgstr ""
+
+#: ../sinrato/theme-config.php:790 ../sinrato/theme-config.php:809
+#: ../sinrato/woocommerce/class-wc-widget-cart.php:27
+msgid "Title"
+msgstr ""
+
+#: ../sinrato/theme-config.php:791 ../sinrato/theme-config.php:810
+msgid "Description"
+msgstr ""
+
+#: ../sinrato/theme-config.php:792 ../sinrato/theme-config.php:811
+msgid "Link"
+msgstr ""
+
+#: ../sinrato/theme-config.php:800
+msgid "Upload brand logos and links"
+msgstr ""
+
+#: ../sinrato/theme-config.php:806
+msgid "Logos"
+msgstr ""
+
+#: ../sinrato/theme-config.php:807
+msgid "Upload logo image and enter logo link."
+msgstr ""
+
+#: ../sinrato/theme-config.php:818
+msgid "Inner Brand Logos"
+msgstr ""
+
+#: ../sinrato/theme-config.php:825
+msgid "Brand carousel in inner pages"
+msgstr ""
+
+#: ../sinrato/theme-config.php:826
+msgid "Show brand carousel in inner pages"
+msgstr ""
+
+#: ../sinrato/theme-config.php:832 ../sinrato/theme-config.php:1183
+msgid "Auto scroll"
+msgstr ""
+
+#: ../sinrato/theme-config.php:838
+msgid "Scroll amount"
+msgstr ""
+
+#: ../sinrato/theme-config.php:839
+msgid "Number of logos to scroll one time, default value: 1"
+msgstr ""
+
+#: ../sinrato/theme-config.php:849 ../sinrato/theme-config.php:1189
+msgid "Pause in (seconds)"
+msgstr ""
+
+#: ../sinrato/theme-config.php:850 ../sinrato/theme-config.php:1190
+msgid "Pause time, default value: 3000"
+msgstr ""
+
+#: ../sinrato/theme-config.php:860 ../sinrato/theme-config.php:1200
+msgid "Animate in (seconds)"
+msgstr ""
+
+#: ../sinrato/theme-config.php:861 ../sinrato/theme-config.php:1201
+msgid "Animate time, default value: 2000"
+msgstr ""
+
+#: ../sinrato/theme-config.php:872 ../sinrato/theme-config.php:924
+#: ../sinrato/theme-config.php:1032 ../sinrato/theme-config.php:1142
+msgid "Sidebar"
+msgstr ""
+
+#: ../sinrato/theme-config.php:873
+msgid ""
+"Sidebar options. Shop/Product sidebar and Blog sidebar are in Product and "
+"Blog sections"
+msgstr ""
+
+#: ../sinrato/theme-config.php:879
+msgid "Inner Pages Sidebar Position"
+msgstr ""
+
+#: ../sinrato/theme-config.php:880
+msgid ""
+"Sidebar Position on pages (default pages). If there is no widget in this "
+"sidebar, the layout will be nosidebar"
+msgstr ""
+
+#: ../sinrato/theme-config.php:890
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../sinrato/theme-config.php:891
+msgid "Add more sidebars"
+msgstr ""
+
+#: ../sinrato/theme-config.php:892
+msgid ""
+"Enter sidebar name (Only allow digits and letters). click Add more to add "
+"more sidebar. Edit your page to select a sidebar "
+msgstr ""
+
+#: ../sinrato/theme-config.php:898 ../sinrato/woocommerce/cart/cart.php:30
+msgid "Product"
+msgstr ""
+
+#: ../sinrato/theme-config.php:899
+msgid "Use this section to select options for product"
+msgstr ""
+
+#: ../sinrato/theme-config.php:905
+msgid "Banner image in shop pages"
+msgstr ""
+
+#: ../sinrato/theme-config.php:908 ../sinrato/theme-config.php:1053
+msgid "Upload image here."
+msgstr ""
+
+#: ../sinrato/theme-config.php:913
+msgid "Show individual category thumbnail"
+msgstr ""
+
+#: ../sinrato/theme-config.php:914
+msgid ""
+"Show individual category thumbnail in product shop/product category pages. "
+msgstr ""
+
+#: ../sinrato/theme-config.php:915
+msgid ""
+"If yes, product shop/product category page will display the thumbnail as "
+"banner. If no, product shop/product category page will display the shop "
+"banner (image uploaded above)"
+msgstr ""
+
+#: ../sinrato/theme-config.php:921
+msgid "Shop Layout"
+msgstr ""
+
+#: ../sinrato/theme-config.php:922 ../sinrato/theme-config.php:1029
+#: ../sinrato/theme-config.php:1140
+msgid "If there is no widget in this sidebar, the layout will be nosidebar"
+msgstr ""
+
+#: ../sinrato/theme-config.php:925 ../sinrato/theme-config.php:1033
+msgid "Full Width"
+msgstr ""
+
+#: ../sinrato/theme-config.php:932
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: ../sinrato/theme-config.php:933
+msgid "Sidebar Position on shop page."
+msgstr ""
+
+#: ../sinrato/theme-config.php:943
+msgid "Shop default view"
+msgstr ""
+
+#: ../sinrato/theme-config.php:946
+msgid "Grid View"
+msgstr ""
+
+#: ../sinrato/theme-config.php:947
+msgid "List View"
+msgstr ""
+
+#: ../sinrato/theme-config.php:953
+msgid "Product background color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:954
+msgid "Upload image or select color"
+msgstr ""
+
+#: ../sinrato/theme-config.php:962
+msgid "Products per page"
+msgstr ""
+
+#: ../sinrato/theme-config.php:963
+msgid "Amount of products per page in shop/product category page"
+msgstr ""
+
+#: ../sinrato/theme-config.php:973 ../sinrato/theme-config.php:997
+msgid "Product columns"
+msgstr ""
+
+#: ../sinrato/theme-config.php:974
+msgid "Amount of product columns in shop/product category page (over 1600px)"
+msgstr ""
+
+#: ../sinrato/theme-config.php:975 ../sinrato/theme-config.php:987
+msgid "Only works with: 1, 2, 3, 4, 5, 6"
+msgstr ""
+
+#: ../sinrato/theme-config.php:985 ../sinrato/theme-config.php:1009
+msgid "Product columns on full width shop"
+msgstr ""
+
+#: ../sinrato/theme-config.php:986
+msgid ""
+"Amount of product columns in full width shop/product category page (over "
+"1600px)"
+msgstr ""
+
+#: ../sinrato/theme-config.php:998
+msgid "Amount of product columns in shop/product category page (992px-1600px)"
+msgstr ""
+
+#: ../sinrato/theme-config.php:999 ../sinrato/theme-config.php:1011
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1010
+msgid ""
+"Amount of product columns in full width shop/product category page "
+"(992px-1600px)"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1022
+msgid "Product page"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1028
+msgid "Single Product Layout"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1039
+msgid "Single Product Sidebar Position"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1040
+msgid "Sidebar Position on single product page."
+msgstr ""
+
+#: ../sinrato/theme-config.php:1050
+msgid "Banner image for single product pages"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1058
+msgid "Single Product header text"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1059
+#: ../sinrato/woocommerce/content-single-product.php:70
+msgid "Product Details"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1064
+msgid "Related product title"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1065
+#: ../sinrato/woocommerce/single-product/related.php:40
+msgid "Related Products"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1070
+msgid "Upsell product title"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1071
+#: ../sinrato/woocommerce/single-product/up-sells.php:40
+msgid "Upsell Products"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1076
+msgid "Cross sell product title"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1077
+msgid "You may be interested in ... "
+msgstr ""
+
+#: ../sinrato/theme-config.php:1082
+msgid "Number of related products"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1092
+msgid "Product share title"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1093
+msgid "Share this product"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1099 ../sinrato/theme-config.php:1106
+#: ../sinrato/theme-config.php:1118
+#: ../sinrato/woocommerce/content-product-archive.php:87
+#: ../sinrato/woocommerce/content-product-archive.php:228
+#: ../sinrato/woocommerce/content-product.php:67
+#: ../sinrato/woocommerce/content-product.php:208
+msgid "Quick View"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1105
+msgid "View details text"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1111
+msgid "View all features text"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1112
+msgid "This is the text on quick view box"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1113
+msgid "See all features"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1119
+msgid "Show quick view button on all pages"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1127
+msgid "Use this section to select options for blog"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1133
+msgid "Blog header text"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1139
+msgid "Blog Layout"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1143
+msgid "No Sidebar"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1144
+msgid "Large Image"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1145
+#: ../sinrato/woocommerce/archive-product.php:171
+msgid "Grid"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1152
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1153
+msgid "Sidebar Position on Blog pages."
+msgstr ""
+
+#: ../sinrato/theme-config.php:1163
+msgid "Read more text"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1164
+msgid "Read more"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1169
+msgid "Blog share title"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1170
+msgid "Share this post"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1177
+msgid "Use this section to select options for Testimonials"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1212
+msgid "Error 404 Page"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1213
+msgid "Error 404 page options"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1220
+msgid "Error 404 background"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1228
+msgid "Less Compiler"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1229
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have "
+"finished changing theme options and your site is ready."
+msgstr ""
+
+#: ../sinrato/theme-config.php:1235
+msgid "Enable Less Compiler"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1241
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../sinrato/theme-config.php:1242
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../sinrato/theme-config.php:1243
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../sinrato/theme-config.php:1247
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../sinrato/theme-config.php:1251
+msgid "Import / Export"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1252
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../sinrato/theme-config.php:1258
+msgid "Import Export"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1259
+msgid "Save and restore your Redux options"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1266
+msgid "Theme Information"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1280
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1281 ../sinrato/theme-config.php:1286
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1285
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1289
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1303 ../sinrato/theme-config.php:1304
+msgid "Theme Options"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1359
+msgid "Visit us on GitHub"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1364
+msgid "Like us on Facebook"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1369
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1374
+msgid "Find us on LinkedIn"
+msgstr ""
+
+#: ../sinrato/theme-config.php:1407
+msgid "just testing"
+msgstr ""
+
+#: ../sinrato/woocommerce/archive-product.php:170
+msgid "View on"
+msgstr ""
+
+#: ../sinrato/woocommerce/archive-product.php:172
+msgid "List"
+msgstr ""
+
+#: ../sinrato/woocommerce/cart/cart.php:31
+msgid "Price"
+msgstr ""
+
+#: ../sinrato/woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr ""
+
+#: ../sinrato/woocommerce/cart/cart.php:33
+#: ../sinrato/woocommerce/myaccount/my-orders.php:43
+msgid "Total"
+msgstr ""
+
+#: ../sinrato/woocommerce/cart/cart.php:55
+#: ../sinrato/woocommerce/cart/mini-cart.php:62
+msgid "Remove this item"
+msgstr ""
+
+#: ../sinrato/woocommerce/cart/cart.php:89
+msgid "Available on backorder"
+msgstr ""
+
+#: ../sinrato/woocommerce/cart/cart.php:134
+msgid "Update cart"
+msgstr ""
+
+#: ../sinrato/woocommerce/cart/cart.php:150
+msgid "Coupon"
+msgstr ""
+
+#: ../sinrato/woocommerce/cart/cart.php:151
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: ../sinrato/woocommerce/cart/cross-sells.php:59
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../sinrato/woocommerce/cart/mini-cart.php:33
+msgid "My cart"
+msgstr ""
+
+#: ../sinrato/woocommerce/cart/mini-cart.php:86
+msgid "Subtotal"
+msgstr ""
+
+#: ../sinrato/woocommerce/cart/mini-cart.php:94
+msgid "No products in the cart."
+msgstr ""
+
+#: ../sinrato/woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../sinrato/woocommerce/checkout/form-checkout.php:59
+msgid "Your order"
+msgstr ""
+
+#: ../sinrato/woocommerce/class-wc-widget-cart.php:20
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../sinrato/woocommerce/class-wc-widget-cart.php:22
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../sinrato/woocommerce/class-wc-widget-cart.php:26
+#: ../sinrato/woocommerce/class-wc-widget-cart.php:48
+msgid "Cart"
+msgstr ""
+
+#: ../sinrato/woocommerce/class-wc-widget-cart.php:32
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../sinrato/woocommerce/content-product-archive.php:114
+#: ../sinrato/woocommerce/content-product-archive.php:189
+#: ../sinrato/woocommerce/content-product.php:94
+#: ../sinrato/woocommerce/content-product.php:169
+#, php-format
+msgid "%s review"
+msgstr ""
+
+#: ../sinrato/woocommerce/myaccount/my-orders.php:34
+msgid "Recent Orders"
+msgstr ""
+
+#: ../sinrato/woocommerce/myaccount/my-orders.php:40
+msgid "Order"
+msgstr ""
+
+#: ../sinrato/woocommerce/myaccount/my-orders.php:41
+msgid "Date"
+msgstr ""
+
+#: ../sinrato/woocommerce/myaccount/my-orders.php:67
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: ../sinrato/woocommerce/myaccount/my-orders.php:76
+msgid "Pay"
+msgstr ""
+
+#: ../sinrato/woocommerce/myaccount/my-orders.php:83
+msgid "Cancel"
+msgstr ""
+
+#: ../sinrato/woocommerce/myaccount/my-orders.php:89
+msgid "View"
+msgstr ""
