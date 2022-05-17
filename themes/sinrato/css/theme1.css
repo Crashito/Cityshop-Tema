@@ -9846,6 +9846,7 @@ body {
 .categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li {
   background: none;
   padding: 0;
+  display: block;
 }
 .categories-menu-wrapper .categories-menu .categories > .menu_holder .menu_inner > ul > li.nav_search_box {
   display: none !important;
