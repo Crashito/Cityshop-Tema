@@ -1227,3 +1227,5 @@ function roadthemez_setup(){
 	}
 }
 add_action('after_setup_theme', 'roadthemez_setup', 9, 0);
+
+include 'functions-custom.php';
