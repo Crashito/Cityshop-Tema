@@ -148,8 +148,15 @@ if ( ! empty( $attachment_ids ) && ( $attachment_ids != 0 ) ) {
 			do_action( 'woocommerce_after_single_product_summary' );
 		?>
 		<div class="related-upsell-products">
-			<?php woocommerce_output_related_products(); ?>
-			<?php woocommerce_upsell_display(); ?>
+			<div class="row justify-content-center">
+				<div class="col-10">
+					<?php woocommerce_output_related_products(); ?>
+				</div>
+				<div class="col-10">
+					<?php woocommerce_upsell_display(); ?>
+				</div>
+			</div>
+		
 		</div>
 	</div>
 </div>
