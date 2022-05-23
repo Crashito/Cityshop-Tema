@@ -71,7 +71,7 @@ if ( ! empty( $attachment_ids ) && ( $attachment_ids != 0 ) ) {
 				</header>
 				<div class="product-content">
 					<div class="row justify-content-center">
-						<div class="single-product-image-wrapper col-12 col-lg-6 col-xl-4">
+						<div class="single-product-image-wrapper col-12 col-lg-6 col-xl">
 							<div class="single-product-image <?php echo esc_attr($imageclass); ?> <?php if($enable_slider && yith_wcmg_is_enabled()){ echo 'slider';} else { echo 'noslider';} ?>">
 								<?php
 									/**
@@ -84,7 +84,7 @@ if ( ! empty( $attachment_ids ) && ( $attachment_ids != 0 ) ) {
 								?>
 							</div>
 						</div>
-						<div class="single-product-info-wrapper col-12 col-lg-6 col-xl-4">
+						<div class="single-product-info-wrapper col-12 col-lg-6 col-xl-5">
 							<div class="summary entry-summary single-product-info">
 								<div class="product-nav">
 									<div class="next-prev">
@@ -118,7 +118,7 @@ if ( ! empty( $attachment_ids ) && ( $attachment_ids != 0 ) ) {
 					</div>
 				</div>
 				<div class="product-more-details row justify-content-center">
-					<div class="col-9">
+					<div class="col-10">
 						<?php woocommerce_output_product_data_tabs(); ?>
 						<meta itemprop="url" content="<?php the_permalink(); ?>" />
 					</div>
@@ -139,13 +139,13 @@ if ( ! empty( $attachment_ids ) && ( $attachment_ids != 0 ) ) {
 		</div>
 		<?php
 			/**
-			 * Hook: woocommerce_after_single_product_summary.
+			 * Hook: woocommerce_after_single_product_summary
 			 *
 			 * @hooked woocommerce_output_product_data_tabs - 10
 			 * @hooked woocommerce_upsell_display - 15
 			 * @hooked woocommerce_output_related_products - 20
 			 */
-			do_action( 'woocommerce_after_single_product_summary' );
+			do_action( 'woocommerce_after_single_product_summary');
 		?>
 		<div class="related-upsell-products">
 			<div class="row justify-content-center">
