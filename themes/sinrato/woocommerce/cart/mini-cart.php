@@ -30,7 +30,7 @@ do_action( 'woocommerce_before_mini_cart' ); ?>
 		<span class="cart-quantity">
 			<?php echo sprintf ( _n( '%d', '%d', WC()->cart->get_cart_contents_count(), 'sinrato' ), WC()->cart->get_cart_contents_count() ); ?>
 		</span>
-		<span class="cart-text"><?php esc_html_e('My cart','sinrato') ?></span>
+		<span class="cart-text"><?php esc_html_e('Mi carrito','sinrato') ?></span>
 	</a>
 </div>
 

@@ -8099,7 +8099,7 @@ msgstr "Exibir o conteúdo do carrinho"
 
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:163
 msgid "Checkout"
-msgstr "Finalizar compra"
+msgstr "Comprar ahora"
 
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:167
 msgid "Displays the checkout"
